@@ -1,7 +1,7 @@
 ## Changes Made 🎉
 
 - [x] feat: added new feature to improve user experience
-- [ ] fix: corrected a bug with login functionality
+- [ ] fix: corrected a bug with functionality
 - [ ] refactor: improved code readability and organization
 - [ ] docs: updated README with new instructions
 - [ ] chore: updated dependencies and configuration files
@@ -10,15 +10,12 @@
 
 <!-- Provide a brief summary of your implementation objective --->
 
-Add Yearly Planner to the App
+Add new YearlyPlannerComponent to the app to have more visibility from the case we are now. Also add gantt for best visibility to records.
 
-## Related Ticket(s)
+### Related Ticket(s)
 
 <!-- Add jira ticket links --->
 <!-- [ACO-982](https://prgxlabs.atlassian.net/browse/ACO-982) --->
 
 - [ACO-982](https://prgxlabs.atlassian.net/browse/ACO-982)
-
-## Visuals (Optional)
-
-<!--- Add video or images showcasing the changes or demonstrating the functionality --->
+- [ACO-1042](https://prgxlabs.atlassian.net/browse/ACO-1042)
