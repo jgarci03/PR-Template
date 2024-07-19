@@ -1,10 +1,10 @@
 ## Changes Made 🎉
 
-- [x] feat: added new feature to improve user experience
-- [ ] fix: corrected a bug with functionality
+- [ ] feat: added new feature to improve user experience
+- [x] fix: corrected a bug with functionality
 - [ ] refactor: improved code readability and organization
 - [ ] docs: updated README with new instructions
-- [ ] chore: updated dependencies and configuration files
+- [ ] core: updated dependencies or environment variables and configuration files
 
 ### Description
 
